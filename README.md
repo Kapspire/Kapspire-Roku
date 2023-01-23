@@ -51,7 +51,7 @@ This project is licensed under the GNU General Public License Version 3.0. For t
 We take security seriously. Please contact security@lbry.com regarding any security issues. Our PGP key is [here](https://keybase.io/lbry/key.asc) if you need it.
 
 ## Contact
-The maintainer for this project is [@s9260](https://github.com/s9260).
+The maintainer for this project is [@Kapspire](https://github.com/kapspire).
 
 ## Additional Info and Links
 - [https://odysee.com](https://www.kapspire.com) - The website

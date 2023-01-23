@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/dub/l/vibe-d.svg?style=flat-square"/>
   </a>
 
-  <a href="https://chat.lbry.com">
+  <a href="https://discord.gg/jBmCVXD73A">
     <img src="https://img.shields.io/discord/889959134705885214.svg?style=flat-square&logo=discord"/>
   </a>
 

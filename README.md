@@ -1,16 +1,16 @@
-<h1 align="center">Odysee Roku App (Unofficial)</h1>
+<h1 align="center">Kapspire Roku App (Official)</h1>
 <div align="center">
   <strong>Video stonks.</strong>
 </div>
 
 <div align="center">
- <a href="https://odysee.com">
- <img src="https://user-images.githubusercontent.com/24932514/119749488-c489c800-bec9-11eb-9a95-70b8cf212c75.jpg">
+ <a href="https://www.kapspire.com">
+ <img src="https://image.roku.com/developer_channels/prod/43c3d62c87fc21f8151c23f9d2269e2410c7708a1d13b31cd1e7685a522982b9.png?generated">
  </a>
 </div>
 
 <div align="center">
-  Unofficial Roku app for <a href="https://odysee.com">Odysee</a>.
+  Official Roku app for <a href="https://www.kapspire.com">Kapspire</a>.
 </div>
 
 
@@ -20,7 +20,7 @@
   </a>
 
   <a href="https://chat.lbry.com">
-    <img src="https://img.shields.io/discord/362322208485277697.svg?style=flat-square&logo=discord"/>
+    <img src="https://img.shields.io/discord/889959134705885214.svg?style=flat-square&logo=discord"/>
   </a>
 
   <a href="https://tosdr.org/en/service/2391">
@@ -31,7 +31,7 @@
 
 ## Installation
 <div align="center">
-  <a href="https://channelstore.roku.com/details/9c8df00ea3b378467cfced954e1aa40e/odysee-unofficial">
+  <a href="https://channelstore.roku.com/details/1ccfd08c96704d9171b49a208ca8c43b/kapspire">
    <img src="https://img.shields.io/badge/-Download%20via%20Roku%20Channel%20Store-lightgrey?logo=Roku&color=662d91"/>
   </a>
 </div>
@@ -54,8 +54,8 @@ We take security seriously. Please contact security@lbry.com regarding any secur
 The maintainer for this project is [@s9260](https://github.com/s9260).
 
 ## Additional Info and Links
-- [https://odysee.com](https://odysee.com) - The website
-- [Discord Chat](https://chat.lbry.com) - A chat room for Odyseenauts
-- [Email us](mailto:hello@odysee.com) - Odysee Support email
-- [Twitter](https://twitter.com/@odysee) - Odysee Twitter page
+- [https://odysee.com](https://www.kapspire.com) - The website
+- [Discord Server](https://chat.lbry.com) - A Discord server for Kapspire members
+- [Email us](mailto:support@kapspire.com) - Kapspire Support email
+- [Twitter](https://twitter.com/Kapspire) - Kapspire Twitter page
 ![dev]

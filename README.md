@@ -1,6 +1,6 @@
 <h1 align="center">Kapspire Roku App (Official)</h1>
 <div align="center">
-  <strong>Video stonks.</strong>
+  <strong>Get the Kapspire Roku app when you get a chance!</strong>
 </div>
 
 <div align="center">

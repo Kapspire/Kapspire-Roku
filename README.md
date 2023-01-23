@@ -15,17 +15,13 @@
 
 
 <div align="center">
-  <a href="https://github.com/lbryio/lbry.com/blob/master/LICENSE">
+  <a href="https://github.com/Kapspire/kapspire-roku/blob/master/LICENSE">
     <img src="https://img.shields.io/dub/l/vibe-d.svg?style=flat-square"/>
   </a>
 
   <a href="https://discord.gg/jBmCVXD73A">
     <img src="https://img.shields.io/discord/889959134705885214.svg?style=flat-square&logo=discord"/>
   </a>
-
-  <a href="https://tosdr.org/en/service/2391">
-    <img src="https://shields.tosdr.org/en_2391.svg"/>
-</a>
 </div>
 
 

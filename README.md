@@ -35,23 +35,23 @@
 For developers, Please see [INSTALL](INSTALL.md) for comprehensive, easy-to-follow instructions on running this project.
 
 ## Contributing
-Contributions to this project are welcome, encouraged, and compensated. For more details, see [CONTRIBUTING](https://lbry.tech/contribute).
+Contributions to this project are welcome, encouraged, and compensated. For more details, see [CONTRIBUTING](https://www.kapspire.com/).
 
 > NOTE:
-> Currently, the developer dosen't accept commits yet, because it is in development. You can see it [here.](https://github.com/lbryio/odysee-roku/issues/7)
+> Currently, the developer dosen't accept commits yet, because it is in development. You can see it [here.](https://github.com/Kapspire/kapspire-roku/issues/7)
 
 ## License
 This project is licensed under the GNU General Public License Version 3.0. For the full license, see [LICENSE](LICENSE).
 
 ## Security
-We take security seriously. Please contact security@lbry.com regarding any security issues. Our PGP key is [here](https://keybase.io/lbry/key.asc) if you need it.
+We take security seriously. Please contact support@kapspire.com regarding any security issues. Our PGP key is [here](https://keybase.io/kapspire/key.asc) if you need it.
 
 ## Contact
 The maintainer for this project is [@Kapspire](https://github.com/kapspire).
 
 ## Additional Info and Links
-- [https://odysee.com](https://www.kapspire.com) - The website
-- [Discord Server](https://chat.lbry.com) - A Discord server for Kapspire members
+- [https://www.kapspire.com](https://www.kapspire.com) - The website
+- [Discord Server](https://discord.gg/jBmCVXD73A) - A Discord server for Kapspire members
 - [Email us](mailto:support@kapspire.com) - Kapspire Support email
 - [Twitter](https://twitter.com/Kapspire) - Kapspire Twitter page
 ![dev]

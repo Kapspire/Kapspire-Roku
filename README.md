@@ -47,7 +47,8 @@ This project is licensed under the GNU General Public License Version 3.0. For t
 We take security seriously. Please contact support@kapspire.com regarding any security issues. Our PGP key is [here](https://keybase.io/kapspire/key.asc) if you need it.
 
 ## Contact
-The maintainer for this project is [@Kapspire](https://github.com/kapspire).
+The holder for this project is [@Kapspire](https://github.com/kapspire).
+The developer for this project is [@ItzKeyonDev](https://github.com/itzkeyondev).
 
 ## Additional Info and Links
 - [https://www.kapspire.com](https://www.kapspire.com) - The website
